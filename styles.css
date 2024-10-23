@@ -6,4 +6,6 @@ background: black;
 header{
 border-bottom: solid 2px rgb(6, 95, 212);
  margin: 20px;
+ font-size: 40px;
+ color: rgb(6, 95, 212);
 }
