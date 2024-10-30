@@ -42,3 +42,8 @@ img{
   overflow-x: auto;
   gap: 10px;
 }
+
+section{
+ padding-left: 80px;
+  padding-right: 80px;
+}
