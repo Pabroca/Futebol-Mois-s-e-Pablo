@@ -2,6 +2,7 @@ body {
   color: white;
 background: black;
 font-family: "Oswald", sans-serif;
+margin-bottom: 100px;
 }
 
 header{
@@ -43,6 +44,7 @@ font-size: 20px;
 .categoria{
  padding-left: 80px;
   padding-right: 80px;
+  margin-top: 50px;
 }
 
 .categoria-videos img {
